@@ -1,0 +1,2 @@
+# Probability_Calculator
+This is it. The final project of my Scientific Computing Certification. This calculator is designed for you to put in x amount of balls, ("blue"=5, "red"=7), and store them as an object. Now you can draw them from the hat to see what you'll get at random. You can draw as many balls out of the hat as you'd like. You can, also, get the probability of a certain outcome if you drew x amount of balls and do it over x amount of experiments. Remember the more experiments the more accurate it'll be. 
